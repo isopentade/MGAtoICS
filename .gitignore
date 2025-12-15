@@ -19,3 +19,7 @@ backup/vertretungsplan.py
 backup/webscraper.py
 kurse.py
 icsconversion.py
+.python-version
+main.py
+pyproject.toml
+uv.lock
